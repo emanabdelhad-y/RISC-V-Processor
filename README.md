@@ -1,4 +1,4 @@
-# RISC-V-Processor  - RISC-V FPGA Implementation
+# RISC-V-Processor (FPGA Implementation)
 
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
   <img src="https://riscv.org/wp-content/uploads/2024/08/riscv-color.svg" alt="RISC-V Logo" style="height: 80px; width: auto;"/>
@@ -9,7 +9,7 @@
   
 [![RISC-V ISA](https://img.shields.io/badge/RISC--V-RV32I-4051B5?logo=riscv&style=for-the-badge)](https://riscv.org)
 [![FPGA Board](https://img.shields.io/badge/Nexys-A7_100T-000000?logo=xilinx&style=for-the-badge)](https://digilent.com/reference/programmable-logic/nexys-a7/start)
-[![License](https://img.shields.io/badge/License-MIT-8A2BE2?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
 
 </div>
 
