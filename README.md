@@ -1,7 +1,17 @@
-# RISC-V-Processor-
-# FemtoRV32 - RISC-V FPGA Implementation
+# RISC-V-Processor  - RISC-V FPGA Implementation
 
-![RISC-V Logo]([https://riscv.org/wp-content/uploads/2019/10/riscv-color.svg](https://logos.fandom.com/wiki/RISC-V)) ![FPGA](https://img.shields.io/badge/FPGA-Nexys%20A7-blue)
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
+  <img src="https://riscv.org/wp-content/uploads/2024/08/riscv-color.svg" alt="RISC-V Logo" style="height: 80px; width: auto;"/>
+  <img src="https://cdn11.bigcommerce.com/s-7gavg/images/stencil/original/image-manager/2024-identity-logothumb1-300x100.png?t=1711565133" alt="Xilinx FPGA" style="height: 50px; width: auto;"/>
+</p>
+
+<div align="center">
+  
+[![RISC-V ISA](https://img.shields.io/badge/RISC--V-RV32I-4051B5?logo=riscv&style=for-the-badge)](https://riscv.org)
+[![FPGA Board](https://img.shields.io/badge/Nexys-A7_100T-000000?logo=xilinx&style=for-the-badge)](https://digilent.com/reference/programmable-logic/nexys-a7/start)
+[![License](https://img.shields.io/badge/License-MIT-8A2BE2?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+</div>
 
 ## Overview
 
