@@ -1,0 +1,7 @@
+
+6 April 2025, 2:00 pm: Implemented lui, auipc, and halting instructions.
+6 April 2025, 9:00 pm: Implemented the jump instructions
+8 April 2025, 11:00 pm: Debbuged the RISCV module and fixed incorrect wirings and issues in the control signals 
+9 April 2025, 2:00 pm: Tested some instructions and completed the i-type instructions
+9 April 2025, 12:00 pm: Created 4*1 mux to handle address computing and register data mux and edited the schematics 
+10 April 2025, 8:00 pm: Exported the schematics and tested all instruction types

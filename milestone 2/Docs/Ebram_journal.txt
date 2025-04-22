@@ -1,0 +1,12 @@
+April 1st 9:32PM 
+	Added the new ALU and implemented the shift module
+April 2st 9:32 AM
+	created the branching module
+April 3rd 1:00 PM 
+	Fully implemented all branch instructions
+April 8th 11:02 PM
+	Implemented all load and store instructions
+April 10th 7:00 PM
+	added the other missing r-type instruction
+Throughout the period
+	Debugging and testing the program 
