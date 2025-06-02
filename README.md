@@ -46,18 +46,23 @@ This project implements a pipelined RISC-V RV32I processor on the Nexys A7 FPGA 
 │       └── sources_1/
 │
 ├── milestone_3/                  # Milestone 3: Pipelined implementation
-│   ├── docs/                     # Documentation and schematics
-│   │   ├── *
-│   │   └── *
-│   ├── simulation/               # Simulation results
-│   │   ├── *
-│   │   └── testbench.v           # Pipeline testbench
+│   ├── bonus/                     # python random program generator
+│   │   ├── Test_Cases_Generator.py
+│   │   └── TestCase.txt
+│   ├── journal/               # Simulation results
+│   │   ├── Ebram's log.txt
+│   │   ├── Eman Journal.txt
 │   ├── tests/                    # Test programs
-│   │   ├── *
-│   │   └── *
-│   └── verilog/                 # Verilog source files
-│       ├── *
-│       └── *
+│   │   ├── SingleMemTest/
+|   |   |   └── *
+│   │   └── SingleMemTest Assembly/
+|   |   |   └── *
+|   ├── verilog/             # Verilog source files
+|   |   └── *
+|   ├── ReadMe.txt
+|   ├── Report.pdf
+│   └── schematic.pdf       
+│
 │
 └── README.md                    # Project overview and documentation
 ```
@@ -99,15 +104,16 @@ This project implements a pipelined RISC-V RV32I processor on the Nexys A7 FPGA 
 
 - **MS1**: Team formation and project setup (Completed)
 - **MS2**: Single-cycle implementation (Completed)
-- **MS3**: Pipelined implementation with full testing (April 30)
+- **MS3**: Pipelined implementation with full testing (Completed)
 
 ## Bonus Features Implemented
 
-1. [Yet to be implemented]
+1. Python Program that generates random RISC-V valid instructions.
+2. Support for some compressed instructions
 
 ## Known Issues
 
-- [None found yet]
+- None
 
 ## Acknowledgments
 
