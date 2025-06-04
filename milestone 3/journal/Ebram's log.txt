@@ -1,0 +1,10 @@
+May 1st 10:00 PM
+	Fixed weird wiring between the registers 
+May 3rd 1:00 PM 
+	Fixed AluSel related issues
+May 4th 8:21 PM
+	created multiple testcases and debugged through them and removed the branching unit
+May 5th 10:00 PM
+	wrote the python program for random test generator
+Throughout the period
+	Debugging and testing the program

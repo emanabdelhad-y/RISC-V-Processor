@@ -1,0 +1,7 @@
+lb x26, 22(x9)
+sltiu x22, x18, 82
+add x4, x23, x12
+and x31, x13, x4
+lui x19, 98
+sra x26, x4, x3
+addi x16, x25, 43

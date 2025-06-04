@@ -1,0 +1,6 @@
+lui
+auipc
+load
+store (? unless 3)
+addi
+branch

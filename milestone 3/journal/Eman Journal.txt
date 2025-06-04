@@ -1,0 +1,12 @@
+April 30th 9:00 PM 
+	Integrated the pipeline into the current phase.
+May 1st 1:32 PM
+	continued the integration and tested some instructions
+May 3rd 1:00 PM 
+	Fully implemented all branch instructions
+May 4th 11:02 PM
+	fixed issues in forwarding unit
+May 5th 10:00 PM
+	created a decompressing unit successfully
+Throughout the period
+	Debugging and testing the program

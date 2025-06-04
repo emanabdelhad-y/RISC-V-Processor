@@ -1,0 +1,11 @@
+00700093 #addi x1, x0, 7
+00400113 #addi x2, x0, 4
+02208663 #beq x1, x2, 44
+02209463 #bne x1, x2, 40
+fc20c8e3 #blt x1, x2, -48
+fc20c8e3 #blt x1, x2, -48
+fc20c8e3 #blt x1, x2, -48
+fc20c8e3 #blt x1, x2, -48
+fc20c8e3 #blt x1, x2, -48
+fc20c8e3 #blt x1, x2, -48
+fc20c8e3 #blt x1, x2, -48
